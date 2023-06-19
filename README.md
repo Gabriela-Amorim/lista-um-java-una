@@ -1,7 +1,7 @@
 # lista-um-java-una
 Lista de exercicio um em java
 
-Meu perfil no LinkedIn é [Duck Duck Go](https://duckduckgo.com).
+Meu perfil no LinkedIn é  https://www.linkedin.com/in/gabriela-amorim-60526b275/
 
 Tecnologias utilizadas 
 
